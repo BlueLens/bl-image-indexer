@@ -1,5 +1,5 @@
 bluelens-log==1.0.1
-bluelens-spawning-pool==1.0.9
+bluelens-spawning-pool==1.0.10
 certifi==2017.11.5
 grpcio==1.8.3
 numpy==1.13.3
@@ -8,7 +8,8 @@ pymongo==3.6.0
 python-dateutil==2.6.1
 redis==2.10.6
 six==1.11.0
-stylelens-index==1.0.9
-stylelens-object==0.0.21
+stylelens-image==0.0.8
+stylelens-index==1.0.12
+stylelens-object==0.0.29
 stylelens-search-vector==1.0.10
 urllib3==1.22

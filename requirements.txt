@@ -12,4 +12,4 @@ stylelens-image==0.0.8
 stylelens-index==1.0.12
 stylelens-object==0.0.29
 stylelens-search-vector==1.0.10
-urllib3==1.22
+urllib3==1.24.2

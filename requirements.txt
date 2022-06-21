@@ -2,7 +2,7 @@ bluelens-log==1.0.1
 bluelens-spawning-pool==1.0.10
 certifi==2017.11.5
 grpcio==1.8.3
-numpy==1.13.3
+numpy==1.22.0
 protobuf==3.5.1
 pymongo==3.6.0
 python-dateutil==2.6.1

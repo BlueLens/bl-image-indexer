@@ -1,6 +1,6 @@
 bluelens-log==1.0.1
 bluelens-spawning-pool==1.0.10
-certifi==2017.11.5
+certifi==2022.12.7
 grpcio==1.8.3
 numpy==1.13.3
 protobuf==3.5.1
